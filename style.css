@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,
+     sans-serif;
+}
+body{
+    background:#ffffff;
+}
+
+header{
+    background:#ce3e00;
+    color:rgb(250, 240, 236);
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    margin-top:px;
+}
+
+nav a{
+    color:rgba(230, 223, 218, 0.904);
+    text-decoration:none;
+    margin:0 10px;
+    font-weight:bold;
+}
+
+
+.box {
+    background-color: #ce9e9e;
+    padding: 10px 20px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin: 10px 10px;
+    border-left: 8px solid #e0d3e0;
+    color: #000000;
+}
+
+.text {
+    text-align: justify;
+}
+
+.kiri img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.container {
+    width:80%;
+    margin:30px auto;
+    text-align:center;
+}
+
+.container h2{
+    margin-bottom:15px;
+}
+
+.btn:hover{
+    background:1d4ed8;
+}
+td{
+    border:1px solid #ddd;
+    padding:10px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:8px;
+    box-shadow:0 0 10px
+    rgba(0,0,0,0.1);
+}
+
+footer {
+    text-align: center;
+}
